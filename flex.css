@@ -1,0 +1,23 @@
+body{
+    background-color: #223;
+}
+.container{
+    background-color: grey;
+    min-height: 300px;
+    display:flex ;
+    flex-direction: row;
+    flex-wrap:wrap ;
+    gap: 20px;
+   
+}
+.item{
+    background-color: red;
+    width: 150px;
+    height: 150px;
+    color: white;
+    font-size:5rem;
+   
+    
+}
+
+    
